@@ -5,4 +5,4 @@ Passos seguidos
 1. Gravação de Áudio Com Python (e JavaScript)
 2. Reconhecimento de Fala com Whisper (OpenAI)
 3. Integração com a API do Google Gemini
-4. 4. Sintetizando a Resposta do ChatGPT Como Voz (gTTS)
+4. Sintetizando a Resposta do ChatGPT Como Voz (gTTS)
